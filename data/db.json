@@ -1,0 +1,39 @@
+{
+  "ids": {
+    "User": 7,
+    "Produit": 22
+  },
+  "models": {
+    "User": {
+      "1": "{\"password\":\"passer12345\",\"image\":\"MWAHAHAHAHA\",\"prenom\":\"Moussa\",\"nom\":\"Ndiaye\",\"email\":\"moussa@gmail.com\",\"telephone\":\"564854553768\",\"id\":1}",
+      "2": "{\"password\":\"passer12345\",\"image\":\"MWAHAHAHAHA\",\"prenom\":\"Fatou\",\"nom\":\"Kine\",\"email\":\"kineFatou@gmail.com\",\"telephone\":\"5634364786\",\"id\":2}",
+      "3": "{\"password\":\"passer12345\",\"image\":\"MWAHAHAHAHA\",\"prenom\":\"Jean\",\"nom\":\"Gomis\",\"email\":\"jeangomis@gmail.com\",\"telephone\":\"765837574\",\"id\":3}",
+      "4": "{\"password\":\"passer12345\",\"image\":\"MWAHAHAHAHA\",\"prenom\":\"Astou\",\"nom\":\"Diouf\",\"email\":\"astoudiouf@gmail.com\",\"telephone\":\"6478345383\",\"id\":4}",
+      "5": "{\"password\":\"passer12345\",\"image\":\"MWAHAHAHAHA\",\"prenom\":\"Germaine\",\"nom\":\"Diouf\",\"email\":\"germainediouf@gmail.com\",\"telephone\":\"6843755377\",\"id\":5}",
+      "6": "{\"password\":\"passer12345\",\"image\":\"MWAHAHAHAHA\",\"prenom\":\"Robinson\",\"nom\":\"Ndecky\",\"email\":\"ndecky@gmail.com\",\"telephone\":\"652646426762\",\"id\":6}"
+    },
+    "Produit": {
+      "1": "{\"imageUrl\":\"https://img.freepik.com/free-photo/pair-trainers_144627-3800.jpg?w=740&t=st=1701033368~exp=1701033968~hmac=e8ae8a123f8ee16f970e878c0131f16e3ffb7834be56be3db39c2b99d6250c94\",\"etatProduit\":1,\"nomProduit\":\"Shoes\",\"description\":\"Chaussures pour homme\",\"prix\":\"5000\",\"id\":1,\"idUser\":6}",
+      "2": "{\"etatProduit\":1,\"nomProduit\":\"MWAHAHAHAHA\",\"description\":\"MWAHAHAHAHA\",\"prix\":\"5000\",\"id\":2,\"idUser\":2}",
+      "3": "{\"etatProduit\":1,\"nomProduit\":\"MWAHAHAHAHA\",\"description\":\"MWAHAHAHAHA\",\"prix\":\"5000\",\"id\":3,\"idUser\":3}",
+      "4": "{\"etatProduit\":1,\"nomProduit\":\"MWAHAHAHAHA\",\"description\":\"MWAHAHAHAHA\",\"prix\":\"5000\",\"id\":4,\"idUser\":4}",
+      "5": "{\"etatProduit\":1,\"nomProduit\":\"MWAHAHAHAHA\",\"description\":\"MWAHAHAHAHA\",\"prix\":\"5000\",\"id\":5,\"idUser\":5}",
+      "6": "{\"imageUrl\":\"https://img.freepik.com/free-photo/sneaker-that-has-word-nike-it_123827-23436.jpg?size=626&ext=jpg&ga=GA1.1.1567362029.1692611823&semt=sph\",\"etatProduit\":1,\"nomProduit\":\"MWAHAHAHAHA\",\"description\":\"MWAHAHAHAHA\",\"prix\":\"5000\",\"id\":6,\"idUser\":6}",
+      "7": "{\"imageUrl\":\"https://img.freepik.com/free-photo/sports-shoe-pair-design-illustration-generated-by-ai_188544-19642.jpg?w=1060&t=st=1701033860~exp=1701034460~hmac=4c86da852158f0e2ad83f45c3fc298085f58c1995a08b0999a68ff8d17f424f6\",\"etatProduit\":1,\"nomProduit\":\"Shoes\",\"description\":\"Chaussures pour homme\",\"prix\":\"5000\",\"id\":7,\"idUser\":6}",
+      "8": "{\"imageUrl\":\"https://img.freepik.com/free-photo/sports-shoe-illustration-men-fashion-generated-by-ai_188544-19541.jpg?w=1060&t=st=1701033900~exp=1701034500~hmac=5862fbfb10e60bec4d824aa2a3ffcb830dea4bb62eceb9c139fc268a05d4e856\",\"etatProduit\":1,\"nomProduit\":\"Shoes\",\"description\":\"Chaussures pour homme\",\"prix\":\"5000\",\"id\":8,\"idUser\":6}",
+      "9": "{\"id\":9,\"idUser\":2,\"nomProduit\":\"Sac\",\"etaProduit\":1,\"description\":\"sac à dos\",\"imageUrl\":\"https://img.freepik.com/free-psd/bag-mockup-merchandising_15879-593.jpg?size=626&ext=jpg&ga=GA1.1.1567362029.1692611823&semt=sph\",\"prix\":\"2000\"}",
+      "10": "{\"id\":10,\"idUser\":6,\"nomProduit\":\"Sac\",\"etaProduit\":1,\"description\":\"gfegfhefjkgekfgkgh\",\"imageUrl\":\"https://img.freepik.com/free-psd/tote-bag_125540-368.jpg?size=626&ext=jpg&ga=GA1.1.1567362029.1692611823&semt=sph\",\"prix\":\"2000\"}",
+      "11": "{\"id\":11,\"idUser\":6,\"nomProduit\":\"Sac 15\",\"etaProduit\":1,\"description\":\"ghfjhdcgkjhkjkhkvjkvh\",\"imageUrl\":\"https://img.freepik.com/free-psd/bag-mockup-merchandising_15879-592.jpg?size=626&ext=jpg&ga=GA1.1.1567362029.1692611823&semt=sph\",\"prix\":\"10000\"}",
+      "12": "{\"id\":12,\"idUser\":6,\"nomProduit\":\"Sac23\",\"etaProduit\":1,\"description\":\"ytitfuigtfuidyuiduiyiyfktfuiguidgh\",\"imageUrl\":\"https://img.freepik.com/free-vector/colorful-halloween-candy-bag-with-flat-design_23-2147920766.jpg?size=626&ext=jpg&ga=GA1.1.1567362029.1692611823&semt=sph\",\"prix\":\"5000\"}",
+      "13": "{\"id\":13,\"idUser\":6,\"nomProduit\":\"sac25\",\"etaProduit\":1,\"description\":\"hjgfihihdfighfjghfjk\",\"imageUrl\":\"https://img.freepik.com/free-photo/white-cotton-handbag-with-beautiful-purple-eustoma-flowers_23-2147924848.jpg?size=626&ext=jpg&ga=GA1.1.1567362029.1692611823&semt=sph\",\"prix\":\"29000\"}",
+      "14": "{\"id\":14,\"idUser\":6,\"nomProduit\":\"Shoes12\",\"etaProduit\":1,\"description\":\"jhgkjhjkhjkhjkhj\",\"imageUrl\":\"https://img.freepik.com/free-photo/fashion-shoes-sneakers_1203-7529.jpg?size=626&ext=jpg&ga=GA1.1.1567362029.1692611823&semt=sph\",\"prix\":\"13000\"}",
+      "15": "{\"id\":15,\"idUser\":6,\"nomProduit\":\"Shoes13\",\"etaProduit\":1,\"description\":\"gfjhsvjhghgj\",\"imageUrl\":\"https://img.freepik.com/free-photo/sport-running-shoes_1203-3414.jpg?size=626&ext=jpg&ga=GA1.1.1567362029.1692611823&semt=sph\",\"prix\":\"14000\"}",
+      "16": "{\"id\":16,\"idUser\":6,\"nomProduit\":\"Shoes14\",\"etaProduit\":1,\"description\":\"gfjhsvjhghgjjgjhgjgjgj\",\"imageUrl\":\"https://img.freepik.com/free-photo/new-pair-white-sneakers-isolated-white_93675-133039.jpg?size=626&ext=jpg&ga=GA1.1.1567362029.1692611823&semt=sph\",\"prix\":\"24000\"}",
+      "17": "{\"id\":17,\"idUser\":6,\"nomProduit\":\"Shoes15\",\"etaProduit\":1,\"description\":\"jhkgkdjghfjkhfkkdjkhf\",\"imageUrl\":\"https://img.freepik.com/free-photo/one-white-sneaker-shoe-isolated-white_93675-134695.jpg?size=626&ext=jpg&ga=GA1.1.1567362029.1692611823&semt=sph\",\"prix\":\"21000\"}",
+      "18": "{\"id\":18,\"idUser\":6,\"nomProduit\":\"Shoes16\",\"etaProduit\":1,\"description\":\"jhgdgfikijkdfhdjkfhg\",\"imageUrl\":\"https://img.freepik.com/free-photo/one-black-sneaker-shoe-isolated-white_93675-131266.jpg?size=626&ext=jpg&ga=GA1.1.1567362029.1692611823&semt=sph\",\"prix\":\"22000\"}",
+      "19": "{\"id\":19,\"idUser\":6,\"nomProduit\":\"shoes24\",\"etaProduit\":1,\"description\":\"jhgjdfdfjdfjhfj\",\"imageUrl\":\"https://img.freepik.com/free-photo/ice-coffee-with-whipped-cream_144627-3801.jpg?size=626&ext=jpg&ga=GA1.1.1567362029.1692611823&semt=sph\",\"prix\":\"34000\"}",
+      "20": "{\"id\":20,\"idUser\":6,\"nomProduit\":\"Shoes18\",\"etaProduit\":1,\"description\":\"nghdfjkdgjkfkdjfdjk\",\"imageUrl\":\"https://img.freepik.com/free-photo/white-high-top-sneakers-unisex-footwear-fashion_53876-106036.jpg?size=626&ext=jpg&ga=GA1.1.1567362029.1692611823&semt=sph\",\"prix\":\"12200\"}",
+      "21": "{\"id\":21,\"idUser\":6,\"nomProduit\":\"sac29\",\"etaProduit\":1,\"description\":\"jfgdfjkfjkdhdk\",\"imageUrl\":\"https://img.freepik.com/free-psd/design-space-blank-tote-bag_53876-57343.jpg?size=626&ext=jpg&ga=GA1.1.1567362029.1692611823&semt=sph\",\"prix\":\"1400\"}"
+    }
+  }
+}
